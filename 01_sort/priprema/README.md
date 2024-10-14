@@ -13,7 +13,7 @@ U nastavku je opisan sadržaj fajla kao i šta je tačno potrebno da se implemen
 U fajlu koji se nalazi u [res](./res/) direktorijumu se nalaze svi podaci o računarima koje je potrebno namestiti u računskom centru RC59.
 Na samom početku fajla u prvom redu se nalazi broj $n$ koji koji predstavlja broj računara koji su opisani u datom fajlu.
 
-Svaki računar je opisan u ... redova i raspored po redovima je sledeći:
+Svaki računar je opisan u 5 redova i raspored po redovima je sledeći:
 
 1. Informacije o procesoru (naziv proizvođača, model, količina L1 keš memorije, broj jezgara i brzina jezgara i godina proizvodnje).
 2. Informacije o disku (da li je HDD ili SSD, količina prostora kao i tip konektora, npr. SATA ili M.2).
