@@ -1,0 +1,51 @@
+10
+124 i3 Intel 4000 16 16 3.5 2019
+15 SSD 2048 M.2
+7 Gigabyte 2022
+262 Transcend 16 3000 DDR3 2023
+0 regular
+2006 i7 Intel 2000 32 16 3.7 2022
+10 HDD 512 M.2
+9 Gigabyte 2023
+262 Transcend 16 3000 DDR3 2023
+1 small
+2912 i3 Intel 1000 32 4 3.9 2019
+11 SSD 512 M.2
+7 Gigabyte 2022
+247 Samsung 32 3000 DDR4 2022
+2 all-in-one
+124 i3 Intel 4000 16 16 3.5 2019
+0 HDD 256 SATA
+0 AmericanMegatrend 2019
+159 Kingston 32 2666 DDR4 2022
+2 all-in-one
+2006 i7 Intel 2000 32 16 3.7 2022
+1 SSD 256 SATA
+0 AmericanMegatrend 2019
+316 Transcend 16 3200 DDR3 2021
+2 all-in-one
+1163 i9 Intel 3000 8 4 3.6 2022
+13 SSD 1024 M.2
+6 AmericanMegatrend 2022
+15 Kingston 32 2400 DDR4 2019
+2 all-in-one
+1163 i9 Intel 3000 8 4 3.6 2022
+10 HDD 512 M.2
+3 Gigabyte 2020
+304 Transcend 32 3200 DDR3 2020
+1 small
+1411 i9 Intel 1000 16 16 3.6 2023
+10 HDD 512 M.2
+9 Gigabyte 2023
+247 Samsung 32 3000 DDR4 2022
+0 regular
+3941 i5 Intel 2000 8 8 4.0 2021
+13 SSD 1024 M.2
+6 AmericanMegatrend 2022
+262 Transcend 16 3000 DDR3 2023
+0 regular
+2157 i5 Intel 4000 32 16 3.7 2023
+1 SSD 256 SATA
+8 AmericanMegatrend 2023
+44 Kingston 16 2400 DDR3 2021
+1 small
