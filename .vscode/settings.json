@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": [
+    "libs/algs4.jar",
+    "/workspaces/spa2-pv/libs/svetovid-lib.jar"
+  ]
+}

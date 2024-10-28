@@ -7,5 +7,12 @@
 			"installMaven": "false",
 			"installGradle": "false"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python"
+			]
+		}
 	}
 }
