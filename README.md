@@ -12,6 +12,13 @@ U okviru ovog kursa na praktičnim vežbama se prolazi 4 oblasti:
 
 Ukoliko neke oblasti još nisu pokrivene u gradivu, neće biti ispunjeni njihovi direktorijumi.
 
+## Paketi u ovom repozitorijumu
+
+Radi lakšeg pisanja rešenja i organizacije koda, u ovom repozitorijumu je napravljen jedan Java projekat u VSCode editoru i rešenja su podeljena u različite pakete.
+
+Ukoliko biste hteli da otvorite rešenja u vašim preferiranim radnim okruženjima, ili preporučenom radnom okruženju za ovaj kurs (Eclipse), možete samo iskopirati izvorni kod rešenja (`.java` fajlove) u projekat i ukloniti ili izmeniti `package` definicije u zavisnosti od toga da li ste koristili pakete u vašem projektu ili ne.
+Ukoliko koristite `default` paket, samo uklonite prvi red iz svakog fajla i neće biti problema.
+
 ## Dodatne biblioteke
 
 Ukoliko Vas interesuje koje dodatne biblioteke se mogu koristiti i koje će povremeno biti korišćene u rešenjima, možete posetiti direktorijum [libs](./libs/).
