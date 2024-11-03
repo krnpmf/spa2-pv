@@ -43,6 +43,12 @@ Sami računari se prirodno porede po svim stavkama redom kako je navedeno u opis
 
 Potrebno je pored samog prirodnog komparatora ugrađenog u klase implementirati i dodatne komparatore koji porede klase na neke dodatne načine.
 
+Napaviti komparatore za svaki od sledećih redosleda sortiranja računara:
+
+1. Procesor (opadajuće), memorija (opadajuće), disk (rastuće)
+2. Matična ploča (rastuće), disk (opadajuće), kućište (opadajuće)
+3. Memorija (rastuće), procesor (rastuće), disk (opadajuće), matična ploča (opadajuće)
+
 ### Sortiranje
 
 Prilikom implementacije komparatora, radi testiranja niz se može testirati ugrađenim metodom za testiranje `Arrays.sort()`.
